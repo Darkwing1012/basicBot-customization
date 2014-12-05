@@ -105,6 +105,6 @@
     }));
 
     //Start the bot and extend it when it has loaded.
-    $.getScript('https://rawgit.com/Yemasthui/basicBot/master/basicBot.js', extend);
+    $.getScript('https://rawgit.com/Darkwing1012/DarkwingBot/master/DarkwingBot.js', extend);
 
 }).call(this);
